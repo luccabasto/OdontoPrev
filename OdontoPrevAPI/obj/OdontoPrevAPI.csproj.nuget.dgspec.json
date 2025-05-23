@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\OdontoPrevAPI\\OdontoPrevAPI.csproj": {}
+    "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\OdontoPrevAPI\\OdontoPrevAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\OdontoPrevAPI\\OdontoPrevAPI.csproj": {
+    "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\OdontoPrevAPI\\OdontoPrevAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\OdontoPrevAPI\\OdontoPrevAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\OdontoPrevAPI\\OdontoPrevAPI.csproj",
         "projectName": "OdontoPrevAPI",
-        "projectPath": "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\OdontoPrevAPI\\OdontoPrevAPI.csproj",
-        "packagesPath": "C:\\Users\\I746830\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\OdontoPrevAPI\\obj\\",
+        "projectPath": "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\OdontoPrevAPI\\OdontoPrevAPI.csproj",
+        "packagesPath": "C:\\Users\\lcbee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\OdontoPrevAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\I746830\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lcbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,24 +112,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -134,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\I746830\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

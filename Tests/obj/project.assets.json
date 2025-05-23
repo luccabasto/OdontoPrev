@@ -4777,19 +4777,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\I746830\\.nuget\\packages\\": {}
+    "C:\\Users\\lcbee\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\Tests\\Tests.csproj",
-      "packagesPath": "C:\\Users\\I746830\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\Tests\\obj\\",
+      "projectPath": "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\Tests\\Tests.csproj",
+      "packagesPath": "C:\\Users\\lcbee\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\I746830\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lcbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4803,8 +4808,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\OdontoPrevAPI\\OdontoPrevAPI.csproj": {
-              "projectPath": "C:\\Users\\I746830\\Desktop\\FIAP\\ChallengeOdontoprevSprint4-master\\OdontoPrevAPI\\OdontoPrevAPI.csproj"
+            "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\OdontoPrevAPI\\OdontoPrevAPI.csproj": {
+              "projectPath": "C:\\Users\\lcbee\\Desktop\\Notebook\\Repos\\Fiap\\OdontoPrev\\OdontoPrevAPI\\OdontoPrevAPI.csproj"
             }
           }
         }
@@ -4859,26 +4864,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\I746830\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,11 @@
+Especialidade,DiaSemana,Hora,Regiao,Clinica
+Ortodontia,Segunda,08h,Zona Sul,Clinica A
+Clínico Geral,Terça,09h,Zona Norte,Clinica B
+Endodontia,Quarta,10h,Zona Leste,Clinica C
+Ortodontia,Quinta,11h,Zona Oeste,Clinica A
+Clínico Geral,Sexta,14h,Centro,Clinica B
+Periodontia,Segunda,15h,Zona Sul,Clinica A
+Ortodontia,Terça,16h,Zona Norte,Clinica B
+Endodontia,Quarta,17h,Zona Leste,Clinica C
+Clínico Geral,Quinta,08h,Centro,Clinica B
+Ortodontia,Sexta,09h,Zona Oeste,Clinica A
