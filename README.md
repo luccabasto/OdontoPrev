@@ -7,8 +7,8 @@
 | Nome Completo                  | RM       |
 |-------------------------------|----------|
 | Lucas Emanuel da Silva Basto  | RM553771 |
-| Erick Lopes Silva             | RM553927 |
-| Marcelo Mendes Galli          | RM553654 |
+| Marcelo Mendes Galli         | RM553654 |
+| Erick Lopes Silva            | RM553927 |
 
 
 ### 📚 Descrição Geral
